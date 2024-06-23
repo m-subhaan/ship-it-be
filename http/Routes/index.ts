@@ -1,0 +1,9 @@
+export { AuthRouter } from "@routes/AuthRoutes";
+export { MerchantAuthRouter } from "@routes/MerchantAuthRoutes";
+export { AdminRouter } from "@routes/AdminRoutes";
+export { CategoryRouter } from "@routes/CategoryRoutes";
+export { SubCategoryRouter } from "@routes/SubCategoryRoutes";
+export { ProductRouter } from "@routes/ProductRoutes";
+export { VariantRouter } from "@routes/VariantRoutes";
+export { MerchantRouter } from "@routes/MerchantRoutes";
+export { MerchantProductRouter } from "@routes/MerchantProductRoutes";

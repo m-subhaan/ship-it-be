@@ -1,0 +1,6 @@
+export const MERCHANT_STATUS = {
+    PENDING: "PENDING",
+    ACCEPTED: "ACCEPTED",
+    REJECTED: "REJECTED",
+    REVOKED: "REVOKED"
+};
